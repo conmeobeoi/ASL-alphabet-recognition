@@ -1,1 +1,1 @@
-# ASL-alphabet-recognition-
+# ASL-alphabet-recognition
